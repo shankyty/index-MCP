@@ -1,4 +1,4 @@
-package com.github.shankyty.unity.mcp
+package com.github.shankyty.indexmcp.mcp
 
 import com.intellij.openapi.application.ApplicationManager
 import com.intellij.openapi.project.Project

@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Unity Changelog
+# Index MCP Changelog
 
 ## [Unreleased]
 ### Added

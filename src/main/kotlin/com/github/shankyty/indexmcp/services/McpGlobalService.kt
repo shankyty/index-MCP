@@ -1,6 +1,6 @@
-package com.github.shankyty.unity.services
+package com.github.shankyty.indexmcp.services
 
-import com.github.shankyty.unity.mcp.McpServer
+import com.github.shankyty.indexmcp.mcp.McpServer
 import com.intellij.openapi.Disposable
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.components.service

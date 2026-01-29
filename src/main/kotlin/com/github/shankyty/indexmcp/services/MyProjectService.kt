@@ -1,9 +1,9 @@
-package com.github.shankyty.unity.services
+package com.github.shankyty.indexmcp.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.shankyty.unity.MyBundle
+import com.github.shankyty.indexmcp.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

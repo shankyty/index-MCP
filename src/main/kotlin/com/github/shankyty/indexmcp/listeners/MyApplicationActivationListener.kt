@@ -1,6 +1,6 @@
-package com.github.shankyty.unity.listeners
+package com.github.shankyty.indexmcp.listeners
 
-import com.github.shankyty.unity.services.McpGlobalService
+import com.github.shankyty.indexmcp.services.McpGlobalService
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.wm.IdeFrame

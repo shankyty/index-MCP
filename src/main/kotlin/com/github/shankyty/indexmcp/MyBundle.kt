@@ -1,4 +1,4 @@
-package com.github.shankyty.unity
+package com.github.shankyty.indexmcp
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

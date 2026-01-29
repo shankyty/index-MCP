@@ -1,4 +1,4 @@
-package com.github.shankyty.unity.toolWindow
+package com.github.shankyty.indexmcp.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.shankyty.unity.MyBundle
-import com.github.shankyty.unity.services.MyProjectService
+import com.github.shankyty.indexmcp.MyBundle
+import com.github.shankyty.indexmcp.services.MyProjectService
 import javax.swing.JButton
 
 

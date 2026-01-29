@@ -1,4 +1,4 @@
-package com.github.shankyty.unity.mcp
+package com.github.shankyty.indexmcp.mcp
 
 import com.google.gson.Gson
 import com.google.gson.JsonElement
@@ -84,7 +84,7 @@ class McpServer(private val port: Int = 20245) {
                 tools = mapOf("listChanged" to false)
             ),
             serverInfo = ServerInfo(
-                name = "intellij-unity-mcp",
+                name = "index-mcp",
                 version = "0.0.1"
             )
         )
